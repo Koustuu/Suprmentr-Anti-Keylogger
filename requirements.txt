@@ -1,0 +1,5 @@
+psutil
+keyboard
+pynput
+cryptography
+
