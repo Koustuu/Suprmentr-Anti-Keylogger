@@ -95,7 +95,10 @@ python keylogger.py
 This project is intended for **learning and demonstration purposes only**. Do not use it for malicious activities or as a replacement for real cybersecurity tools.
 
 ---
-
+## Implmentation
 <img width="742" height="500" alt="Screenshot 2026-04-16 022753" src="https://github.com/user-attachments/assets/801a6669-788d-43dd-903f-feb837407d73" />
+
+## Activity log
+<img width="1099" height="588" alt="Screenshot 2026-04-16 023202" src="https://github.com/user-attachments/assets/af995acd-7df3-4bd3-87e3-e308cbcec6d8" />
 
 
