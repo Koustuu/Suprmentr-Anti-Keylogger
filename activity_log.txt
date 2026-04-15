@@ -1,0 +1,88 @@
+Wed Apr 15 23:17:16 2026 - Keylogger simulation started
+Wed Apr 15 23:17:31 2026 - Keylogging detected after 5 seconds
+Wed Apr 15 23:17:31 2026 - Keystrokes encrypted and stored
+Wed Apr 15 23:17:31 2026 - Keyboard blocked
+Wed Apr 15 23:55:26 2026 - Keyboard blocked
+Wed Apr 15 23:57:09 2026 - Keyboard blocked
+Wed Apr 15 23:57:32 2026 - Opened file location
+Wed Apr 15 23:57:42 2026 - Keyboard unblocked
+Wed Apr 15 23:57:52 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:57:52 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:57:52 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:57:52 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:18 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:19 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:19 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:19 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:19 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:19 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:19 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:19 2026 - Keystrokes captured and encrypted
+Wed Apr 15 23:58:20 2026 - Keystrokes captured and encrypted
+Thu Apr 16 00:00:56 2026 - Keyboard blocked
+Thu Apr 16 00:02:24 2026 - Keyboard blocked
+Thu Apr 16 00:02:29 2026 - Contain selected
+Thu Apr 16 00:02:29 2026 - File moved to quarantine
+Thu Apr 16 00:02:37 2026 - Restore selected
+Thu Apr 16 00:02:37 2026 - File restored
+Thu Apr 16 00:02:46 2026 - Keyboard unblocked
+Thu Apr 16 00:09:25 2026 - Typing started -> monitoring...
+Thu Apr 16 00:11:59 2026 - Typing started -> monitoring...
+Thu Apr 16 00:12:04 2026 - ⚠️ Keylogger behavior detected!
+Thu Apr 16 00:12:04 2026 - Keystrokes encrypted and stored
+Thu Apr 16 00:12:04 2026 - Keyboard blocked
+Thu Apr 16 00:12:32 2026 - Keyboard unblocked
+Thu Apr 16 00:16:25 2026 - Typing started -> monitoring...
+Thu Apr 16 00:16:31 2026 - ⚠️ Keylogger behavior detected!
+Thu Apr 16 00:16:31 2026 - Keystrokes encrypted and stored
+Thu Apr 16 00:16:31 2026 - Keyboard blocked
+Thu Apr 16 00:16:43 2026 - Keyboard unblocked
+Thu Apr 16 00:22:53 2026 - Typing started -> monitoring...
+Thu Apr 16 00:22:58 2026 - ⚠️ Keylogger behavior detected!
+Thu Apr 16 00:22:58 2026 - Keystrokes encrypted and stored
+Thu Apr 16 00:22:58 2026 - Keyboard blocked
+Thu Apr 16 00:25:35 2026 - Keyboard unblocked
+Thu Apr 16 01:15:04 2026 - ⚠️ Detected keylogger process: C:\Users\koust\AppData\Local\Programs\Python\Python314\python.exe keylogger.py
+Thu Apr 16 01:15:04 2026 - ⚠️ Keylogger detected via process monitoring
+Thu Apr 16 01:15:04 2026 - 💀 Keylogger process terminated
+Thu Apr 16 01:15:04 2026 - Keyboard blocked
+Thu Apr 16 01:20:39 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:20:39 2026 - ⚠️ Keylogger detected via process monitoring
+Thu Apr 16 01:20:40 2026 - 💀 Keylogger process terminated
+Thu Apr 16 01:20:40 2026 - Keyboard blocked
+Thu Apr 16 01:20:48 2026 - Keyboard unblocked
+Thu Apr 16 01:20:51 2026 - Contain selected
+Thu Apr 16 01:20:51 2026 - File moved to quarantine
+Thu Apr 16 01:20:56 2026 - Restore selected
+Thu Apr 16 01:20:56 2026 - File restored
+Thu Apr 16 01:21:54 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:21:54 2026 - ⚠️ Keylogger detected via process monitoring
+Thu Apr 16 01:21:54 2026 - 💀 Keylogger process terminated
+Thu Apr 16 01:21:54 2026 - Keyboard blocked
+Thu Apr 16 01:22:01 2026 - Keyboard unblocked
+Thu Apr 16 01:29:16 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:18 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:20 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:23 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:25 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:27 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:29 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:31 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:33 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:35 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:37 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:39 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:29:41 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:30:09 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:30:09 2026 - ⚠️ Keylogger detected via process monitoring
+Thu Apr 16 01:30:09 2026 - 💀 Keylogger process terminated
+Thu Apr 16 01:30:09 2026 - Keyboard blocked
+Thu Apr 16 01:32:35 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:32:35 2026 - ⚠️ Keylogger detected via process monitoring
+Thu Apr 16 01:32:35 2026 - 💀 Keylogger process terminated
+Thu Apr 16 01:32:35 2026 - Keyboard blocked
+Thu Apr 16 01:32:53 2026 - Keyboard unblocked
+Thu Apr 16 01:33:54 2026 - ⚠️ Detected keylogger: D:\koust\Documents\8th sem\sourcecode\keylogger.py
+Thu Apr 16 01:33:54 2026 - ⚠️ Keylogger detected via process monitoring
+Thu Apr 16 01:33:54 2026 - 💀 Keylogger process terminated
+Thu Apr 16 01:33:54 2026 - Keyboard blocked
