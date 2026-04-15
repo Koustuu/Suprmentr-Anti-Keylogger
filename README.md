@@ -24,8 +24,6 @@ Once a threat is detected, the system blocks keyboard input to prevent further d
 
 ## ⚙️ Requirements
 
-Create a `requirements.txt` file:
-
 ```
 psutil
 keyboard
