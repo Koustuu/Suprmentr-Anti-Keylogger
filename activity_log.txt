@@ -1,3 +1,5 @@
+** DEMONSTRATION **
+
 Wed Apr 15 23:17:16 2026 - Keylogger simulation started
 Wed Apr 15 23:17:31 2026 - Keylogging detected after 5 seconds
 Wed Apr 15 23:17:31 2026 - Keystrokes encrypted and stored
